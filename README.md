@@ -1,5 +1,5 @@
 # Welcome to Trangiuoi workshop
-Full Name:
-College:
-Hobby:
-Fun fact:
+Full Name: \n
+College: \n
+Hobby: \n
+Fun fact: \n
