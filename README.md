@@ -1,1 +1,1 @@
-# Welcome to Trangiuoi workshop
+# Welcome to Trangiuoi Git workshop
