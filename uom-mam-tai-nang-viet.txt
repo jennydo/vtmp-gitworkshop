@@ -1,6 +1,6 @@
-Welcome to Trangiuoi workshop
+Welcome to Trangiuoi Git workshop
 
 Full Name:
 College:
-Hobby: hahahhahahaha
-Fun fact: du cho tan the van yeu viettech
+Hobby:
+Fun fact:
