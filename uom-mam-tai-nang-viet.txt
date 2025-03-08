@@ -1,6 +1,6 @@
 Welcome to Trangiuoi workshop
 
-Full Name:
+Full Name: 
 College:
 Hobby:
 Fun fact:
