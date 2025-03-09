@@ -1,6 +1,8 @@
 Welcome to Trangiuoi Git workshop
 
+<<<<<<< HEAD
 Full Name: Hong An
 College: Orange Coast College
 Hobby: Bowling & Gym
-Fun fact: Zo Discord coi nha :))))))
+Fun fact: Du cho tan the van yeu VietTech huhu
+
