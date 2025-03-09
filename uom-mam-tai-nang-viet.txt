@@ -1,6 +1,6 @@
 Welcome to Trangiuoi Git workshop
 
-Full Name:
-College:
-Hobby:
-Fun fact:
+Full Name: Tran Duc Kien
+College: Lehigh University
+Hobby: Read manga
+Fun fact: Read lots of manga
