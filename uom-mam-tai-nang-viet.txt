@@ -1,6 +1,6 @@
 Welcome to Trangiuoi Git workshop
 
-Full Name:
-College:
-Hobby:
-Fun fact:
+Full Name: Chau Tran
+College: UMass Amherst
+Hobby: drawing
+Fun fact: just went skiing today!
