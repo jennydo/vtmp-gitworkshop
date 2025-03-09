@@ -1,6 +1,5 @@
 Welcome to Trangiuoi Git workshop
 
-Full Name:
-College:
-Hobby:
-Fun fact:
+Full Name: Thanh Nguyen
+College: Uni of British Columbia
+Status: Revising git pratices
