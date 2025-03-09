@@ -1,6 +1,6 @@
 Welcome to Trangiuoi Git workshop
 
-Full Name:
-College:
-Hobby:
-Fun fact:
+Full Name: Ha Nguyen
+College: Tufts University
+Hobby: sleeping
+Fun fact: I like to sleep.
