@@ -1,6 +1,6 @@
 Welcome to Trangiuoi Git workshop
 
-Full Name:
-College:
-Hobby:
-Fun fact:
+Full Name: Minh Nguyen
+College: Florida State University
+Hobby: Read other's code, and learn or judge
+Fun fact: hihi
