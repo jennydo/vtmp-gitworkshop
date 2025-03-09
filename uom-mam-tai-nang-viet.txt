@@ -1,6 +1,6 @@
 Welcome to Trangiuoi Git workshop
 
-Full Name:
-College:
-Hobby:
-Fun fact:
+Full Name: Hoang
+College: UofA
+Hobby: hehe
+Fun fact: huhu
