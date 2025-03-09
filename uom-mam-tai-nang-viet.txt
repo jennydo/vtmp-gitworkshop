@@ -1,6 +1,6 @@
 Welcome to Trangiuoi Git workshop
 
-Full Name:
-College:
-Hobby:
-Fun fact:
+Full Name: Nguyen Hong Xuan Quy
+College: University of Windsor
+Hobby: soccer, basketball, video games, movies
+Fun fact: Pediatrician before CS
