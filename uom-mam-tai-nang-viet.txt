@@ -1,13 +1,6 @@
 Welcome to Trangiuoi Git workshop
 
-<<<<<<< HEAD
 Full Name: Trang Do
 College: Northeastern University
 Hobby: cooking, KDramas, Vpop (Pickleball, Du cho tan the, Anh trai chong gai)
-Fun fact: Mai mai 1 tinh yeu voi VietTech
-=======
-Full Name: Hoang
-College: UofA
-Hobby: hehe
-Fun fact: huhu
->>>>>>> 268ead51b92391097f12789b547c85873b0c7fff
+Fun fact: Du cho tan the van yeu VietTech huhu
