@@ -1,6 +1,6 @@
 Welcome to Trangiuoi Git workshop
 
-Full Name:
-College:
-Hobby:
-Fun fact:
+Full Name: Nhat
+College: Iowa State
+Hobby: Sherlock Holmes
+Fun fact: 1 + 1 = 10
