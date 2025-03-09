@@ -1,5 +1,5 @@
 Welcome to Trangiuoi Git workshop
 
-Full Name: Thanh Nguyen
-College: Uni of British Columbia
-Status: Revising git pratices
+Full Name: Thanh
+College: University of British Columbia
+Status: Revising git practices
