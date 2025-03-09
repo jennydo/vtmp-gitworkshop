@@ -1,6 +1,6 @@
 Welcome to Trangiuoi Git workshop
 
-Full Name: Nguyen Hong Xuan Quy
+Full Name: Nguyen Hong Xuan Quy 
 College: University of Windsor
-Hobby: soccer, basketball, video games, movies
-Fun fact: Pediatrician before CS
+Hobby: soccer, basketball, video games, movies 
+Fun fact: Du cho tan the van yeu VietTech huhu
