@@ -1,6 +1,6 @@
 Welcome to Trangiuoi Git workshop
 
-Full Name:
-College:
-Hobby:
-Fun fact:
+Full Name: Son Mai
+College: Western Governors University
+Hobby: Hiking
+Fun fact: Not sure
